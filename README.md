@@ -38,7 +38,7 @@ To start the application, run the following command:
 npm start
 ```
 
-Open your browser and navigate to `http://localhost:3000` to see the Weather-App in action.
+Open your browser and navigate to `http://localhost:4200` to see the Weather-App in action.
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
