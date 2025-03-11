@@ -1,2 +1,2 @@
-# Weatheer-App
+# Weather-App
  
