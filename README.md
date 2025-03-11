@@ -38,16 +38,17 @@ To start the application, run the following command:
 npm start
 ```
 
-Open your browser and navigate to `http://localhost:4200` to see the Weather-App in action.
+Open your browser and navigate to `http://localhost:3000` to see the Weather-App in action.
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any inquiries or support, please contact:
+- Name: Atif Abdul Raheem
+- Email: atifabdulraheem@example.com
+- GitHub: [atifabdulraheem](https://github.com/atifabdulraheem)
 ```
-
-Replace `path/to/your/imageX.png` with the actual paths to your images in the repository.
-
-Would you like me to assist you with creating this file on GitHub?
- 
