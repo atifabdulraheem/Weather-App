@@ -1,10 +1,11 @@
 # Weather-App
 
+## Overview Output
+![Weather-App Image 1](https://github.com/atifabdulraheem/Weather-App/blob/main/src/assets/screenshots/weather-app-img.png)
+![Weather-App Image 2](https://github.com/atifabdulraheem/Weather-App/blob/main/src/assets/screenshots/weather-mobile-img.png)
+![Weather-App Image 3](https://github.com/atifabdulraheem/Weather-App/blob/main/src/assets/screenshots/weather-mobile-searching-img.png)
+
 ## Overview
-![Weather-App Image 1](src/assests/screenshos/image1.png)
-![Weather-App Image 2](path/to/your/image2.png)
-![Weather-App Image 3](path/to/your/image3.png)
-![Weather-App Image 4](path/to/your/image4.png) 
 
 Weather-App is a simple application that provides current weather information based on the user's location. It fetches weather data from a public API and displays it in a user-friendly interface.
 
