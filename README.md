@@ -1,7 +1,7 @@
 # Weather-App
 
 ## Overview
-![Weather-App Image 1](path/to/your/image1.png)
+![Weather-App Image 1](src/assests/screenshos/image1.png)
 ![Weather-App Image 2](path/to/your/image2.png)
 ![Weather-App Image 3](path/to/your/image3.png)
 ![Weather-App Image 4](path/to/your/image4.png)
